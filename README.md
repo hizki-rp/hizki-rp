@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hizkiyas
-- 👀 I’m interested in Web development and Game programming.
-- 🌱 I'm a Recent Software Engineering Grad.
-- 💞️ I’m looking to collaborate on Web development and Game programming.
+- 👀 I’m interested in Learning and Impressive designs.
+- 🌱 Experienced Front End Developer with passion for problem solving and clean design.
+- 💞️ I’m looking to collaborate on Web development front to Full stack applications!
 - 📫 How to reach me :::  ->  hizkiyasbogale46@gmail.com
 
 <!---
